@@ -1,4 +1,6 @@
-## Lien repo du projet
+***CoursAdvisor*** est une plateforme web destinée aux étudiants du DIRO (Université de Montréal).
+Elle centralise les données provenant de Planifium, des résultats académiques fournis par les enseignants ou les auxiliaires et des avis étudiants collectés via Discord, afin d’aider les étudiants à choisir leurs cours de manière éclairée.
+L’application permet de rechercher, comparer et consulter des cours tout en personnalisant les recommandations selon le profil de l’étudiant.
 
 Lien : https://github.com/EnzoT454/Devoir3-2255  
 
@@ -13,11 +15,6 @@ Lien : https://github.com/EnzoT454/Devoir3-2255
 
 Lien: https://drive.google.com/file/d/1NlWyTHpnAUDsi9Z7IEA1Gj6UgxJBWbhf/view?usp=drive_link
 
-## CoursAdvisor (Brève description)
- 
-***CoursAdvisor*** est une plateforme web destinée aux étudiants du DIRO (Université de Montréal).
-Elle centralise les données provenant de Planifium, des résultats académiques fournis par les enseignants ou les auxiliaires et des avis étudiants collectés via Discord, afin d’aider les étudiants à choisir leurs cours de manière éclairée.
-L’application permet de rechercher, comparer et consulter des cours tout en personnalisant les recommandations selon le profil de l’étudiant.
 
 ## Fonctionnalités par rôle
 
