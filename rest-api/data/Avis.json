@@ -1,0 +1,148 @@
+[ {
+  "coursCode" : "IFT2255",
+  "difficulte" : "MOYEN",
+  "chargeTravail" : "MOYEN",
+  "commentaire" : "ift2255 est moyen",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT2035",
+  "difficulte" : "MOYEN",
+  "chargeTravail" : "MOYEN",
+  "commentaire" : "ift2035 is hard",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT2255",
+  "difficulte" : "MOYEN",
+  "chargeTravail" : "MOYEN",
+  "commentaire" : "ift2255 est good",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT2255",
+  "difficulte" : "FACILE",
+  "chargeTravail" : "LEGER",
+  "commentaire" : "IFT2255 est un cours vraiment chill. Le contenu est simple et on a peu de travail à faire chaque semaine.",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT2255",
+  "difficulte" : "DIFFICILE",
+  "chargeTravail" : "LOURDE",
+  "commentaire" : "IFT2255 est extrême. C'est super difficile et la charge de travail est intense, surtout avec les laboratoires",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT2255",
+  "difficulte" : "DIFFICILE",
+  "chargeTravail" : "LOURDE",
+  "commentaire" : "IFT2255 est compliqué mais faisable. Par contre, préparez-vous car c'est un énorme charge de travail",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT2035",
+  "difficulte" : "DIFFICILE",
+  "chargeTravail" : "LOURDE",
+  "commentaire" : "Le cours IFT2035 est vraiment difficile. C'est un paradigme différent et il y a beaucoup de travail avec les travaux pratiques en Haskell.",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT2035",
+  "difficulte" : "MOYEN",
+  "chargeTravail" : "MOYEN",
+  "commentaire" : "IFT2035 est correct. La charge de travail est raisonnable si on suit bien les séances de démonstration",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT2035",
+  "difficulte" : "DIFFICILE",
+  "chargeTravail" : "MOYEN",
+  "commentaire" : "IFT2035 c'est easy au début, mais ça devient compliqué vers la fin",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT2035",
+  "difficulte" : "DIFFICILE",
+  "chargeTravail" : "LOURDE",
+  "commentaire" : "IFT2035 demande une énorme charge de travail. C'est dur de comprendre la récursion terminale au début",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT1015",
+  "difficulte" : "FACILE",
+  "chargeTravail" : "LEGER",
+  "commentaire" : "Le cours IFT1015 est vraiment facile et le contenu est chill",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT1025",
+  "difficulte" : "MOYEN",
+  "chargeTravail" : "MOYEN",
+  "commentaire" : "IFT1025 est correct, la charge de travail est normale",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "MAT1978",
+  "difficulte" : "DIFFICILE",
+  "chargeTravail" : "LOURDE",
+  "commentaire" : "MAT1978 est super difficile et le prof donne beaucoup de travail !",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT1015",
+  "difficulte" : "FACILE",
+  "chargeTravail" : "MOYEN",
+  "commentaire" : "IFT1015 est un bon cours de base, très simple à suivre",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT1015",
+  "difficulte" : "MOYEN",
+  "chargeTravail" : "MOYEN",
+  "commentaire" : "J'ai trouvé IFT1015 moyen, pas trop de surprises",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT1025",
+  "difficulte" : "DIFFICILE",
+  "chargeTravail" : "MOYEN",
+  "commentaire" : "Le projet final de IFT1025 est assez dur, mais le reste est correct.",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT1015",
+  "difficulte" : "FACILE",
+  "chargeTravail" : "LOURDE",
+  "commentaire" : "IFT1015 est pas facile pour les débutants.",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT1015",
+  "difficulte" : "MOYEN",
+  "chargeTravail" : "LOURDE",
+  "commentaire" : "C'est facile de réussir IFT1015",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT1015",
+  "difficulte" : "FACILE",
+  "chargeTravail" : "LOURDE",
+  "commentaire" : "IFT1015 est facile mais c'est beaucoup de travail",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT1065",
+  "difficulte" : "FACILE",
+  "chargeTravail" : "TRES_LEGER",
+  "commentaire" : "IFT1065 est simple et pas de travail",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+}, {
+  "coursCode" : "IFT1065",
+  "difficulte" : "FACILE",
+  "chargeTravail" : "MOYEN",
+  "commentaire" : "IFT1065 est simple et facile",
+  "session" : "AUTOMNE",
+  "annee" : 2024
+} ]

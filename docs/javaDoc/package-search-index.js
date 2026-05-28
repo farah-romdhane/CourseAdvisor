@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.diro.ift2255"},{"l":"com.diro.ift2255.config"},{"l":"com.diro.ift2255.controller"},{"l":"com.diro.ift2255.enums"},{"l":"com.diro.ift2255.model"},{"l":"com.diro.ift2255.Repository"},{"l":"com.diro.ift2255.service"},{"l":"com.diro.ift2255.util"},{"l":"com.diro.ift2255.vue"}];updateSearchResults();
